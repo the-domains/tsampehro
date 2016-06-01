@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Depuis le lancement de son premier millésime, les crus du Clos de Tsampéhro ont obtenu la confiance de nombreux professionnels du vin et de la gastronomie. L’Édition I (millésime 2011), malgré son volume limité, avait déjà convaincu quelques chouettes ambassadeurs que nous avions inventorié dans un billet précédent (Gastronomie & Tsampéhro !).'
-datePublished: '2016-06-01T18:58:24.114Z'
-dateModified: '2016-06-01T18:58:14.157Z'
+datePublished: '2016-06-01T19:09:23.524Z'
+dateModified: '2016-06-01T19:03:10.299Z'
 title: ''
 author: []
+sourcePath: _posts/2016-06-01-tsampehro-dans-les-etoiles.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-01-tsampehro-dans-les-etoiles.md
 url: tsampehro-dans-les-etoiles/index.html
 _type: Article
 
