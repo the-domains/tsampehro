@@ -1,4 +1,4 @@
-name: Tsampehro
+name: Clos de Tsampéhro
 favicon: null
 layout_spectrum: 0.43168616900220513
 typography_spectrum: 0.21733159269206226
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#fffffe'
+    - '#0b0a09'
+    - '#ba2e2a'
+    - '#958f88'
+    - '#52524e'
   brandStrength: 0.595486223930493
   lightness: 0.46038863994181156
   saturation: 0.9627698238473386
