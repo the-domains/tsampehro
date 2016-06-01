@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Actif en Suisse depuis 2009, la plateforme Vinifera-Mundi.ch se passionne pour le travail des viticulteurs à travers le monde. Avec plus de 15 ans d’expérience, Jean-François Guyard, fondateur du site, expert en vin et passionné d’œnologie, communique par ce biais de nombreux articles où il partage ses impressions de dégustation. En collaboration avec Andi Spichtig et Adrian van Velsen, journalistes et blogueurs indépendants, il organise régulièrement des séances de dégustation à l’aveugle sur diverses thématiques autour de grands vins.'
-datePublished: '2016-06-01T19:09:05.760Z'
-dateModified: '2016-06-01T19:08:44.213Z'
+datePublished: '2016-06-01T19:19:19.060Z'
+dateModified: '2016-06-01T19:09:57.565Z'
 title: ''
 author: []
+sourcePath: _posts/2016-06-01-swiss-deluxe-by-vinifera-mundi.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-01-swiss-deluxe-by-vinifera-mundi.md
 url: swiss-deluxe-by-vinifera-mundi/index.html
 _type: Article
 
