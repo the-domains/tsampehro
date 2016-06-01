@@ -5,18 +5,20 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'L’Édition IV s’annonce de grande qualité, offrant un jus de haut vol et de belle concentration. Les vins terminent actuellement leur élevage bien à l’abri dans notre chai et vous trouverez prochainement sur notre site tsampehro.com toutes les caractéristiques de ce millésime 2014 (fiches techniques et commentaires de dégustation).'
-datePublished: '2016-06-01T19:18:27.737Z'
-dateModified: '2016-06-01T19:18:24.525Z'
+datePublished: '2016-06-01T19:19:13.278Z'
+dateModified: '2016-06-01T19:19:02.802Z'
 title: ''
 author: []
+sourcePath: _posts/2016-06-01-ledition-iv-sannonce-de-grande-qualite-offrant-un-jus-de.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-01-ledition-iv-sannonce-de-grande-qualite-offrant-un-jus-de.md
 url: ledition-iv-sannonce-de-grande-qualite-offrant-un-jus-de/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c7a9faa0-67b5-4635-8c44-420cdb6b08dc.jpg)
+
 L'Édition IV s'annonce de grande qualité, offrant un jus de haut vol et de belle concentration. Les vins terminent actuellement leur élevage bien à l'abri dans notre chai et vous trouverez prochainement sur notre site tsampehro.com toutes les caractéristiques de ce millésime 2014 (fiches techniques et commentaires de dégustation).
 
 Les faibles rendements du millésime n'ont cependant permis de ne produire qu'une quantité limitée de flacons...et une grande partie est déjà réservée par nos partenaires restaurateurs et cavistes, ainsi que nos plus fidèles aficionados. Ainsi, si vous souhaitez vous assurer une petite allocation de cette nouvelle édition (tout en profitant de nos conditions spéciales de pré-commande!), il ne vous reste que quelques jours pour le faire via notre formulaire de commande online. Après le 30 juin 2016, les tarifs standards seront applicables. Faites passer le message à votre entourage !
